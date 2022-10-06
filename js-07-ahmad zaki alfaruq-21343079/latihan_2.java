@@ -1,0 +1,20 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package latihan;
+
+/**
+ *
+ * Created by Ahmad Zaki Alfaruq_21343079
+ */
+public class latihan_2 {
+     public static void main(String[]args){
+        int bil;
+        for (bil=60; bil>=10; bil -= 10)
+            System.out.println(bil);
+        
+    }
+}
+    
+
